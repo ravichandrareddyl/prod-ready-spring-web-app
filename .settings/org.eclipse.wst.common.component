@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="prod-ready-spring-boot-setup">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/build/classes" source-path="/src"/>
+        <wb-resource deploy-path="/build/classes" source-path="/resources"/>
+        <wb-resource deploy-path="/build/" source-path="/WebContent/WEB-INF/lib"/>
+        <property name="context-root" value="prod-ready-spring-boot-setup"/>
+        <property name="java-output-path" value="/prod-ready-spring-boot-setup/build/classes"/>
+    </wb-module>
+</project-modules>
